@@ -1,0 +1,3 @@
+﻿  Converter.cpp
+C:\Users\liutz\Desktop\c++\resume projects\Converter\Converter\Converter.cpp(87,14): warning C4018: '<': signed/unsigned mismatch
+  Converter.vcxproj -> C:\Users\liutz\Desktop\c++\resume projects\Converter\Debug\Converter.exe
